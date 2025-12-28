@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DisneyXDWest.us" tvg-logo="" group-title="World",Disney XD West (720p)
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="" group-title="World",Animax (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=4
+#EXTINF:-1 tvg-id="METRO TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/2880px-LogoMetroTVsince2010.svg.png" group-title="Lokal",METRO TV HD
+https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 tvg-id="KOMPAS TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/480px-KOMPAS_TV_%282017%29.svg.png" group-title="Lokal",KOMPAS TV SD
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+#EXTINF:-1 tvg-name="NET TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/2880px-MDTV_logo.svg.png" group-title="Lokal",NET TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/2880px-Mentari_TV.svg.png" group-title="Lokal",Mentari TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTINF:-1 tvg-id="ANTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/2880px-Antv_logo.svg.png" group-title="Lokal",ANTV HD
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#EXTINF:-1 tvg-id="INDOSIAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/2560px-Indosiar_2015.svg.png" group-title="Lokal",INDOSIAR HD
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1 tvg-id="MNC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/798px-MNCTV_logo.png" group-title="Lokal",MNC TV HD
+https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1 tvg-id="RCTI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/2880px-RCTI_logo_2015.svg.png" group-title="Lokal",RCTI HD
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1 tvg-id="INEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/2880px-INews.svg.png" group-title="Lokal",INEWS HD
+https://allcutv.rctiplus.id/inews2023.m3u8
+#EXTINF:-1 tvg-id="TV ONE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2880px-TvOne_2023.svg.png" group-title="Lokal",TV ONE HD
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1 tvg-id="SCTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2880px-SCTV_Logo.svg.png" group-title="Lokal",SCTV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1 tvg-id="TVRI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2880px-TVRILogo2019.svg.png" group-title="Lokal",TVRI HD
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="TRANS 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/2880px-Trans_7_2013.svg.png" group-title="Lokal",TRANS 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="TRANS TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/2880px-Trans_TV_2013.svg.png" group-title="Lokal",TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="GTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/2880px-GTV_%282017%29.svg.png" group-title="Lokal",GTV HD
+https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1 tvg-id="CNN INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNN_Indonesia_logo_%282023%29.svg/2560px-CNN_Indonesia_logo_%282023%29.svg.png" group-title="Lokal",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CNBC_Indonesia_2024.svg/1920px-CNBC_Indonesia_2024.svg.png" group-title="Lokal",CNBC HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="RTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/2880px-Rajawali_Televisi.svg.png" group-title="Lokal",RTV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTINF:-1 tvg-id="MOJI TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2880px-Moji_blue.svg.png" group-title="Lokal",MOJI TV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 tvg-id="BTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/480px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" group-title="Lokal",BTV HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-id="NUSANTARA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Nusantara_TV_Symbol.svg/1920px-Nusantara_TV_Symbol.svg.png" group-title="Lokal",NUSANTARA TV HD
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BERITASATU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BeritaSatu_%28Flat%29.svg/480px-BeritaSatu_%28Flat%29.svg.png" group-title="Lokal",BERITASATU HD
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-id="DAAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DAAI_TV.svg/2880px-DAAI_TV.svg.png" group-title="Lokal",DAAI
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 tvg-id="INDONESIANA TV" tvg-logo="https://indonesiana.tv/_nuxt/img/logo-indonesianatv.bdbaf66.png" group-title="Lokal",INDONESIANA TV
+https://tvstreamcast.com/indonesiana.m3u8
+#EXTINF:-1 tvg-id="GARUDA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_GarudaTV_Merah_Putih_Silver_Merah.svg/2880px-Logo_GarudaTV_Merah_Putih_Silver_Merah.svg.png" group-title="Lokal",GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+#EXTINF:-1 tvg-id="MAGNA CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Lokal",MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="INSPIRA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png" group-title="Lokal",INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TV KESEHATAN" group-title="Lokal",TV KESEHATAN
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="PSJ TV" tvg-logo="https://www.psjtv.id/wp-content/uploads/2023/06/PSJTV-Tagline-Hitam-Retina.png" group-title="Lokal",PSJ TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DW" tvg-logo="https://hometv.pw/logo/news/dw_tv.png" group-title="Lokal",DW
+http://210.210.155.37/qwr9ew/s/s11/index.m3u8
+#EXTINF:-1 tvg-id="TVRI WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/2880px-TVRI-World.svg.png" group-title="Lokal",TVRI WORLD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="MADANI TV" tvg-logo="https://www.madani.tv/wp-content/uploads/2021/10/madanitv-logo-copy-2X.png" group-title="Lokal",MADANI TV
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
